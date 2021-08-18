@@ -1,2 +1,2 @@
 # github-api-test
-merged
+close it
